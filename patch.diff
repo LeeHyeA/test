@@ -1,0 +1,22 @@
+diff --git a/helloworld.cpp b/helloworld.cpp
+new file mode 100644
+index 0000000..6ba90ba
+--- /dev/null
++++ b/helloworld.cpp
+@@ -0,0 +1,12 @@
++#include <stdio.h>
++
++int main(void)
++{
++	printf("Hello World\n");
++
++	int i = 4;
++	
++	printf("%d", i);
++
++	return 0;
++}
+\ No newline at end of file
+diff --git a/text.txt b/text.txt
+new file mode 100644
+index 0000000..e69de29
